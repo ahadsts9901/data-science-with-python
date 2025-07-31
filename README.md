@@ -13,7 +13,7 @@ This repository documents my learning journey in Data Science using Python. Belo
 | Working with APIs            | ✅ Learned            | [YouTube](https://github.com/ahadsts9901/chat-app-flask)   |
 | Flask                        | ✅ Learned            | [Learned from Docs](https://github.com/ahadsts9901/flask-backend)   |
 | FastAPI                      | ✅ Learned            | [Learned from Docs](https://github.com/ahadsts9901/fastapi-python)   |
-| SQL                          | ✅ Learned            | [Mosh](https://youtu.be/7S_tz1z_5bA?si=uH3IZ15rBD5CaEZg)  [Apna College](https://www.youtube.com/watch?v=hlGoQC332VM&t=483s)   |
+| SQL                          | ✅ Learned            | [Mosh](https://youtu.be/7S_tz1z_5bA?si=uH3IZ15rBD5CaEZg) || [Apna College](https://www.youtube.com/watch?v=hlGoQC332VM&t=483s)   |
 | Django                       | ✅ Learned            | [YouTube](https://youtube.com/playlist?list=PLu71SKxNbfoDOf-6vAcKmazT92uLnWAgy&si=dao6oTii-I3jjiqj)   |
 | NumPy                        | ✅ Learned            | [YouTube](https://www.youtube.com/watch?v=x7ULDYs4X84)   |
 | Pandas                       | ✅ Learned            | [YouTube](https://www.youtube.com/watch?v=RhEjmHeDNoA)   |
