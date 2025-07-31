@@ -8,14 +8,13 @@ This repository documents my learning journey in Data Science using Python. Belo
 
 | 📌 Topic                      | 📈 Status          | 🎥 Source                                                |
 |------------------------------|--------------------|----------------------------------------------------------|
-| Python Basics                | ✅ Learned            | [YouTube](https://github.com/ahadsts9901/learning-python)   |
-| Python File Operations       | ✅ Learned            | [YouTube](https://github.com/ahadsts9901/learning-python/tree/main/18.file-io)   |
-| Regular Expressions          | ✅ Learned            | [YouTube](https://github.com/ahadsts9901/chat-app-fastapi)   |
+| Python Basics                | ✅ Learned            | [YouTube](https://youtu.be/UrsmFxEIp5k?si=qqRY4cV5peqtuMCn)   |
+| Python File Operations       | ✅ Learned            | [YouTube](https://youtu.be/UrsmFxEIp5k?si=qqRY4cV5peqtuMCn)   |
 | Working with APIs            | ✅ Learned            | [YouTube](https://github.com/ahadsts9901/chat-app-flask)   |
-| Flask                        | ✅ Learned            | [YouTube](https://github.com/ahadsts9901/flask-backend)   |
-| FastAPI                      | ✅ Learned            | [YouTube](https://github.com/ahadsts9901/fastapi-python)   |
-| SQL                          | ✅ Learned            | [YouTube](https://github.com/ahadsts9901/my-sql)   |
-| Django                       | ✅ Learned            | [YouTube](https://github.com/ahadsts9901/django)   |
+| Flask                        | ✅ Learned            | [Learned from Docs](https://github.com/ahadsts9901/flask-backend)   |
+| FastAPI                      | ✅ Learned            | [Learned from Docs](https://github.com/ahadsts9901/fastapi-python)   |
+| SQL                          | ✅ Learned            | [Mosh](https://youtu.be/7S_tz1z_5bA?si=uH3IZ15rBD5CaEZg)  [Apna College](https://www.youtube.com/watch?v=hlGoQC332VM&t=483s)   |
+| Django                       | ✅ Learned            | [YouTube](https://youtube.com/playlist?list=PLu71SKxNbfoDOf-6vAcKmazT92uLnWAgy&si=dao6oTii-I3jjiqj)   |
 | NumPy                        | ✅ Learned            | [YouTube](https://www.youtube.com/watch?v=x7ULDYs4X84)   |
 | Pandas                       | ✅ Learned            | [YouTube](https://www.youtube.com/watch?v=RhEjmHeDNoA)   |
 | Data Visualization with Matplotlib & Seaborn         | 🔄 In Progress        | [YouTube](https://www.youtube.com/watch?v=-jTD74eEy2I)   |
